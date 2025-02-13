@@ -1,4 +1,4 @@
-# Back 2 Buy - An Ecommerce Frontend App built with using Angular 15 + Tailwind.
+# QuickDeal E-Commerce Website - An Ecommerce Frontend App built with using Angular 15 + Tailwind.
 
 **To run application follow these steps**
 
